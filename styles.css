@@ -1,0 +1,20 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.banner {
+    background-image: url(img/Beige\ Feminine\ Personal\ LinkedIn\ Banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+    color:rgb(94, 3, 3);
+}
+
+.skills-padding{
+    padding: 95px 0;
+}
+
+@media (max-width: 526px) {
+    .banner {
+        padding: 100px 0;
+    }
+}
